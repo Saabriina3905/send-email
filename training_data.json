@@ -1,0 +1,164 @@
+[
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Salaan! Sideen kaa caawin karnaa maanta? 😊 "
+      },
+      {
+        "role": "user",
+        "content": "asc"
+      },
+      {
+        "role": "assistant",
+        "content": "sidee tahay walaal? Waxaan halkan u joogaa inaan ku caawiyo i weydii aan ku warceliyee."
+      },
+      {
+        "role": "user",
+        "content": "jamacada warbixin iga sheeg"
+      },
+      {
+        "role": "assistant",
+        "content": "Jaamacadda Ummadda Soomaaliyeed (SNU) waxaa la aasaasay sanadkii 1954-kii, xilligii Dhulweynaha Soomaaliya. Waxay heshay heer jaamacad rasmi ah sanadkii 1969-kii.\nXarunta ugu weyn ee jaamacadda waxay ku taallaa qiyaastii lix kiiloomitir oo ka fog bartamaha magaalada. Mudadii 30-ka sano ee ugu horreysay ee jaamacadda, kampaska weyn waxaa loo yaqaanay Jaamacadda Gaheyr (“Jaamacadda Gaheyr”).\nSanadkii 1973, iyadoo hoos timaadday Golaha Kacaanka Sare (SRC), barnaamijyada iyo adeega jaamacadda ayaa la ballaariyey. SNU waxay ku kortay muddo labaatan sano ah inay noqoto jaamacad waxbarasho sare, iyadoo leh 13 waaxood, 700 shaqaale ah iyo in ka badan 15,000 oo arday ah.\nRector-ka Jaamacadda Ummadda Soomaaliyeed waa Prof. Xasan Cusmaan Ga’al (PhD). Ardayda Jaamacadda Ummadda Soomaaliyeed waxaa tiradoodu ay gaareysaa ku dhawaad 150000. SNU waxay dadaal ugu jirtaa bixinta barnaamijyo waxbarasho iyo cilmi-baaris oo la jaanqaadaya baahiyaha dalka ee dhinacyada bulshada, siyaasadda, dhaqanka, sayniska iyo tiknoolajiyadda.\nHimilo:\nSNU waxay ujeedadeedu tahay inay noqoto jaamacad dadweyne oo caalami ah oo ku takhasustay waxbarashada, hal-abuurka, cilmi-baarista, gaarsiinta bulshada iyo wareejinta tiknoolajiyada, iyadoo dhalinaysa ardayda ugu rajo wanaagsan adduunka iyo shaqaalaha ugu heer sareeya si ay bulshada uga faa’iideeyaan.\nYool:\nSNU waxay dadaal ugu jirtaa bixinta barnaamijyo waxbarasho iyo cilmi-baaris oo la xiriira si loo soo saaro xirfadlayaal ku habboon iyo kheyraadka aadanaha ee lagama maarmaanka u ah ka jawaabidda baahiyaha dhaqaalaha, siyaasadda, dhaqanka, sayniska iyo tiknoolajiyada dalka."
+      },
+      {
+        "role": "user",
+        "content": "cilad ba ihysata"
+      },
+      {
+        "role": "assistant",
+        "content": "Waan ka xumahay, laakiin ma haysto macluumaad ku saabsan weeydiintada . Ma ku caawin karaa wax kale oo la xiriira adeegyada Jaamacadda Ummadda Soomaaliyeed?"
+      }
+    ],
+    "metadata": {
+      "rating": 4,
+      "isAccurate": "yes",
+      "timestamp": "2025-12-15T06:31:29.866Z"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Salaan! Sideen kaa caawin karnaa maanta? 😊 "
+      },
+      {
+        "role": "user",
+        "content": "ma ladan tahay"
+      },
+      {
+        "role": "assistant",
+        "content": "Waan ka xumahay, wax khalad ayaa dhacay. Fadlan isku day mar kale. (Sorry, something went wrong. Please try again.)"
+      },
+      {
+        "role": "user",
+        "content": "sidethy"
+      },
+      {
+        "role": "assistant",
+        "content": "Haye saaxiib, waa maxay su’aashaada? Waxaan diyaar u ahay inaan ka jawaabo."
+      },
+      {
+        "role": "user",
+        "content": "ma landan tahay"
+      },
+      {
+        "role": "assistant",
+        "content": "Waan ku macasalaameynayaa, waxan kuu rajaynayaa qeyr iyo warsan."
+      },
+      {
+        "role": "user",
+        "content": "side tahay"
+      },
+      {
+        "role": "assistant",
+        "content": "wcs, ku soo dhowow Jaamacadda Ummadda Soomaaliyeed. Maxaan ka saacidaa?"
+      },
+      {
+        "role": "user",
+        "content": "thank you"
+      },
+      {
+        "role": "assistant",
+        "content": "Walaal waxa wanaagsan in uwada hadalno si xushmad leh ay ku dheehan tahay qadarin."
+      },
+      {
+        "role": "user",
+        "content": "tag"
+      },
+      {
+        "role": "assistant",
+        "content": "Fadlan, ka fiirso luuqadda aad adeegsaneyso, wada hadal aan xushmad lahayn ma caawinayo waxba, Nabiga (NNKH) wuxu yiri: Man kaana yu’minu billahi wal yawmil aakhiri fal yaqul khairan aw liyasmut oo micnaheedu yahay: waxaa wanagsan in lagu hadalo hadal wanagsan ama in uu iska aamuso."
+      },
+      {
+        "role": "user",
+        "content": "kir"
+      },
+      {
+        "role": "assistant",
+        "content": "Fadlan, su'aashaada soo daa."
+      },
+      {
+        "role": "user",
+        "content": "kut"
+      },
+      {
+        "role": "assistant",
+        "content": "Waan ka xumahay, wax khalad ayaa dhacay. Fadlan isku day mar kale. (Sorry, something went wrong. Please try again.)"
+      },
+      {
+        "role": "user",
+        "content": "kir"
+      },
+      {
+        "role": "assistant",
+        "content": "walaal, Waa maxay su’aashaada? Waxaan diyaar u ahay inaan kaga jawaabo adigo mahadsan."
+      },
+      {
+        "role": "user",
+        "content": "kut"
+      },
+      {
+        "role": "assistant",
+        "content": "Waan ka xumahay, laakiin ma haysto macluumaad ku saabsan weeydiintada . Ma ku caawin karaa wax kale oo la xiriira adeegyada Jaamacadda Ummadda Soomaaliyeed?"
+      },
+      {
+        "role": "user",
+        "content": "jamacada halke ku taalaa"
+      },
+      {
+        "role": "assistant",
+        "content": "Jaamacaddu waa ku taal Columbia Rd, Hamar Weyne, Muqdisho."
+      },
+      {
+        "role": "user",
+        "content": "inte kala xiriiri karaa"
+      },
+      {
+        "role": "assistant",
+        "content": "Waxaad naga heli kartaan Tel: +252 617494202 ama emailka Jus@snu.edu.so."
+      },
+      {
+        "role": "user",
+        "content": "kuliyada jamacada laga heli karo isheeg"
+      },
+      {
+        "role": "assistant",
+        "content": "Jaamacadda Ummadda Soomaaliyeed waxay bixisaa kulliyado kala duwan sida:\nUndergraduate Faculties:\nKulliyadda Beeraha iyo Cilmiga Deegaanka\nKulliyadda Caafimaadka Xoolaha iyo Xanaanada Xoolaha\nKulliyadda Sharciga Islaamka\nKulliyadda Dhaqaalaha iyo Maamulka\nKulliyadda Sayniska\nKulliyadda Luuqadaha\nKulliyadda Injineernimada\nKulliyadda Waxbarashada\nKulliyadda Caafimaadka iyo Qalliinka\nKulliyadda Sharciga\nKulliyadda Cilmiga Bulshada\nGraduate Programs:\nKulliyadda Daraasaadka Sare iyo Cilmi-baarista (Graduate Programs)"
+      },
+      {
+        "role": "user",
+        "content": "mahdasanid"
+      },
+      {
+        "role": "assistant",
+        "content": "is aragti danbe xiiso leh, macsalaama."
+      }
+    ],
+    "metadata": {
+      "rating": 4,
+      "isAccurate": "yes",
+      "timestamp": "2025-12-15T06:19:15.084Z"
+    }
+  }
+]
